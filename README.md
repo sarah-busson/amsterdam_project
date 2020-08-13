@@ -29,6 +29,7 @@ But I was wondering if that feeling was true or just an impression. Are the Neth
 The 2 sources I used come from :
  * https://klimaatmonitor.databank.nl/ for the data about the gas emissions in / by NL.
  * https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html for the data about the energy sources in NL.
+
 At first, I tried to use datasets from the city of Amsterdam but as those were too incomplete, I thought it would be more relevant to use data from the whole country.
 
 ## Workflow
