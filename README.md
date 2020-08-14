@@ -49,5 +49,4 @@ I tried to organize my repository as I organized my local files, separating the 
 ## Links
 
 [Repository](https://github.com/sarah-busson/amsterdam_project/)  
-[Slides](https://slides.com/)  
 [Trello](https://trello.com/b/k7CGDsbi/the-amsterdam-project)  
